@@ -1,11 +1,11 @@
 # Site settings
 author: Kristin Howard
-title: 
+title: Opera Singer to Software Engineer
 header-img: img/home-bg.png
 email: hkristin@andrew.cmu.edu
 copyright_name: Kristin Howard
 description: > # this means to ignore newlines until "baseurl:"
-  
+  One Gal's Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  hkristin
