@@ -1,10 +1,11 @@
 ---
 layout: post
 title:      "Ruby, Rails, Recipes"
-date:       2020-08-24 17:11:04 +0000
+date:       2020-08-24 13:11:04 -0400
 permalink:  ruby_rails_recipes
 ---
 
+![](https://pinchofyum.com/wp-content/uploads/Vegan-Vodka-Pasta-Square.jpg/)
 
 Sinatra truly set us up so well for this Ruby on Rails project that it felt as if I still had my bearings! If anything, a lot of the time-consuming hard coding of Sinatra was simplified with the beauty of Rails. Gems like Devise and Omniauth, migrations, Active Record, and partials all seemed there to help you get to where you wanted to be, but faster. 
 
